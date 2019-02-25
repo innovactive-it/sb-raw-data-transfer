@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/innovactive-it/sb-raw-data-transfer.git"
+    "url": "git+https://github.com/innovactive-it/sb-raw-data-translater.git"
   },
   "author": "Simone Giacomucci",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/innovactive-it/sb-raw-data-transfer/issues"
+    "url": "https://github.com/innovactive-it/sb-raw-data-translater/issues"
   },
-  "homepage": "https://github.com/innovactive-it/sb-raw-data-transfer#readme",
+  "homepage": "https://github.com/innovactive-it/sb-raw-data-translater#readme",
   "dependencies": {
     "@types/node": "^11.9.4"
   },

@@ -1,0 +1,30 @@
+{
+  "name": "sis-raw-data-translater",
+  "version": "0.1.0",
+  "description": "byte array to json converter for sis systems.",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simogiac90/sis-raw-data-translater.git"
+  },
+  "keywords": [
+    "sis"
+  ],
+  "author": "Simone Giacomucci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simogiac90/sis-raw-data-translater/issues"
+  },
+  "homepage": "https://github.com/simogiac90/sis-raw-data-translater#readme",
+  "dependencies": {
+    "@types/node": "^11.9.4"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.0"
+  }
+}

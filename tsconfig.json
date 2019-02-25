@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {    
+    "target": "es6",                       
+    "module": "commonjs", 
+    "allowJs": false,                 
+    "declaration": true,                   
+    "sourceMap": true,                     
+    "outDir": "./build",                   
+    "noImplicitAny": true,                         
+    "experimentalDecorators": true,        
+    "emitDecoratorMetadata": true,         
+    "lib":[
+      "es2017",
+      "es2017",
+      "dom"
+    ]    
+  },
+  "compileOnSave": true,
+  "include": [
+      "."
+  ]
+}

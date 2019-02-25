@@ -11,9 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/innovactive-it/sb-raw-data-transfer.git"
   },
-  "keywords": [
-    "sis"
-  ],
   "author": "Simone Giacomucci",
   "license": "MIT",
   "bugs": {
